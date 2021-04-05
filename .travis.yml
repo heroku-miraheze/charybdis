@@ -11,7 +11,6 @@ notifications:
   irc:
     channels:
     - "chat.freenode.net#charybdis"
-    - "chat.freenode.net#freenode"
 
 matrix:
   include:
