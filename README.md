@@ -106,4 +106,4 @@ You will need to run `autogen.sh` to build the autotools files prior to building
 	`git clone https://github.com/heroku-miraheze/charybdis`
 
  * Charybdis's GIT repository depot can be browsed over the Internet at the following address:
-	https://github.com/charybdis-ircd/charybdis
+	https://github.com/heroku-miraheze/charybdis
